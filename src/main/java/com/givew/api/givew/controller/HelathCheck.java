@@ -10,8 +10,5 @@ public class HelathCheck {
 	public String getHealth() {
 		return "App is running";
 	}
-	
-	
-	
 
 }
