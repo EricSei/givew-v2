@@ -128,6 +128,6 @@ https://google.github.io/styleguide/javaguide.html
 
 # Authors
 - Eric Sei
-- Gavin
-- Jess
-- Jesus
+- Brang Mai
+- Kaung Myat
+- Ring
